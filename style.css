@@ -325,13 +325,13 @@ footer{
 
     header{
         flex-direction: row;
-        width: 401px;
+        width: 414px;
         
 
     }
 
     header a{
-        width: 110px;
+        width: 127px;
         font-size: 12px;
     }
 
@@ -369,12 +369,13 @@ footer{
 
     }
     .MenuCima a{
-        width: 401px;
+        width: 414px;
+
     }
 
     input{
-        width: 392px;
-        margin-left: 9px;
+        width: 412px;
+        
     }
 
     
@@ -386,7 +387,7 @@ footer{
 
     .info{
         
-        width: 526px;
+        width: 536px;
         background: linear-gradient(180deg, #0A141D 0%, rgba(10, 20, 29, 0.2) 100%);
         display: flex;
         flex-direction: column;
@@ -408,6 +409,9 @@ footer{
         
     }
 
+    .infoT{
+        padding: 100px;
+    }
     
 
 
