@@ -420,6 +420,7 @@ footer{
     .newConteiner{
         max-width: 500px;
         overflow-x: scroll;
+        width: 393px;
     }
 
     .Ofertas{
