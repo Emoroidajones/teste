@@ -414,6 +414,7 @@ footer{
     .Banner{
         width: 527px;
         margin-right: 0px;
+        display: none;
     }
 
     .newConteiner{
