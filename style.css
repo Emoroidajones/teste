@@ -357,6 +357,7 @@ footer{
     }
     .infoIMGS{
         width: 331px;
+        margin-left: 100px;
     }
 
 
@@ -396,7 +397,7 @@ footer{
     }
 
     .imgB{
-        width: 526px;
+        width: 539px;
     }
 
     .Categorias{
@@ -410,7 +411,7 @@ footer{
     }
 
     .infoT{
-        padding: 100px;
+        padding-left: 100px;
     }
     
 
