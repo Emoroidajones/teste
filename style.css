@@ -25,9 +25,10 @@ header{
 }
 
 body{
+    background: #0A141D;
     display: flex;
     justify-content: center;
-    background-color: darkgrey;
+    /* background-color: darkgrey; */
     
     flex-direction: column;
     height: 100%;
